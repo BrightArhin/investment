@@ -1,0 +1,30 @@
+.logo{
+    width:10%;
+    background-image: url("../img/coin.jpg");
+    background-size: cover;
+    height: 100%;
+
+}
+
+.remove-link-deco:link,
+.remove-link-deco:visited{
+    text-decoration: none;
+    color: white;
+}
+.shift-left-30{
+    margin-left: 20px;
+}
+
+.center-text{
+    text-align: center;
+}
+.bold-font{
+    font-weight: bold;
+}
+
+.import-form{
+    width: 30%;
+    border: 1px solid #eee;
+    padding: 20px;
+}
+
